@@ -1,0 +1,9 @@
+com\constrular\constrular\API\controllers\ClientControll.class
+com\constrular\constrular\API\models\Address.class
+com\constrular\constrular\API\configuration\WebConfig.class
+com\constrular\constrular\API\services\ClientServiceImp\ClientServiceImp.class
+com\constrular\constrular\API\models\Client.class
+com\constrular\constrular\API\repository\ClientRepository.class
+com\constrular\constrular\API\models\Status.class
+com\constrular\constrular\API\ConstrularApiApplication.class
+com\constrular\constrular\API\services\ClientService.class
